@@ -1,5 +1,5 @@
 ---
-title: Marcos's  CSUMB CS Online Journey
+title: Welcome to my online CS Journey!
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -9,13 +9,10 @@ collections:
     title: Uploads
     output: true
 email: mabarrera@csumb.edu
-description: A dark blog theme for Jekyll.
+description: Theme descritions
 baseurl: 
 url: https://MarcosBSD.github.io
-title_description: A dark blog theme for Jekyll focusing on a clear reading experience.
-  Large text and a narrow body makes carte noire a gorgeous read. With excellent code
-  snippet support and integrated tools such as AddThis and Disqus giving your Jekyll
-  blog all the functionality your users expect.
+title_description: Title Description
 title_image: "/uploads/cropped-tunnel.jpg"
 google_analytics: UA-163962122-1
 disqus_account: 
