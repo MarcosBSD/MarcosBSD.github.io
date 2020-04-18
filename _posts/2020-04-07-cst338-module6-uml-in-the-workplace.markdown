@@ -15,5 +15,5 @@ We have used UML diagrams in my workplace, but we usually diagram our robotic pr
 **Have you done multithreading in any language before?**
 I have done multithreading in Java and Python before. I also do async threading within ROS (Robotics Operating System) and psuedo-threading in microcontrollers like the Arduino.
 
-**Did you find Patterns to be helpful? **
+**Did you find Patterns to be helpful?**
 I absolutely find patterns to be helpful and try to implement them whenever possible to maintain organization.
