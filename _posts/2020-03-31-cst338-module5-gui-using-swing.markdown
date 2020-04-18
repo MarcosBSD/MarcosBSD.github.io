@@ -3,6 +3,7 @@ title: CST338 Module5:GUI using Swing
 date: 2020-03-31 12:15:00 -07:00
 categories:
 - CST338
+thumbnail: barcode
 ---
 
 **GUI is learned late in the game with Java.  Do you think this is helpful or harmful and why?**
