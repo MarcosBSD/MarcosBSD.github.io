@@ -5,7 +5,7 @@ categories:
 - CST300
 ---
 
-## **100 Weeks!** 
+![IMG_20200101_133107_edited.jpg](/uploads/IMG_20200101_133107_edited.jpg)## **100 Weeks!** 
 Only 100 weeks for me to finish the next part of my educational journey to becoming a computer scientist. 
 
 We started Module 0 by putting together a weekly study schedule to adhere to while we work toward the finish line.  Since I started my new job on January 1, I had already performed this scheduling and surprisingly it looks like my new schedule is going to be great for our family.
