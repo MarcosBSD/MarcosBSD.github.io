@@ -3,6 +3,7 @@ title: CST338 Module6:UML in the workplace
 date: 2020-04-07 12:17:00 -07:00
 categories:
 - CST338
+thumbnail: project-diagram
 ---
 
 **What experience do you have with UML diagrams?**
