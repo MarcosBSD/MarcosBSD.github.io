@@ -5,7 +5,8 @@ categories:
 - CST300
 ---
 
-100 Weeks! Only 100 weeks for me to finish the next part of my educational journey to becoming a computer scientist. 
+## **100 Weeks!** 
+Only 100 weeks for me to finish the next part of my educational journey to becoming a computer scientist. 
 
 We started Module 0 by putting together a weekly study schedule to adhere to while we work toward the finish line.  Since I started my new job on January 1, I had already performed this scheduling and surprisingly it looks like my new schedule is going to be great for our family.
 
@@ -19,7 +20,7 @@ I get to drop her off at pre-school, with plenty of time to read her some storie
 Then it is back to the home office for a 9AM start building robots and writing code. Since my wife is picking up our daughter from her mother's house, I get to cook dinner for the family when I am done with my workday at 4PM and have a family meal before starting my weekly study sessions.  This will provide me a mental break to transition between work and school.  
 
 
-Weekly Study Time and Methods Commitment Breakdown:
+## **Weekly Study Time and Methods Commitment Breakdown:**## 
 
 Monday: 6PM-8PM, login to iLearn to review forum updates and post responses, review email, complete any outstanding assignment revisions from the weekend.
 
