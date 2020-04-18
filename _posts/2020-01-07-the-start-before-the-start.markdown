@@ -5,7 +5,7 @@ categories:
 - CST300
 ---
 
-![IMG_20200101_133107_edited.jpg](/uploads/IMG_20200101_133107_edited.jpg)## **100 Weeks!** 
+## **100 Weeks!** ##
 Only 100 weeks for me to finish the next part of my educational journey to becoming a computer scientist. 
 
 We started Module 0 by putting together a weekly study schedule to adhere to while we work toward the finish line.  Since I started my new job on January 1, I had already performed this scheduling and surprisingly it looks like my new schedule is going to be great for our family.
@@ -37,3 +37,5 @@ Saturday: 8AM-9AM, Standing team meeting via google hangout. Review agenda items
 Saturday: 9AM-6PM, login to iLearn to complete any open forum posts, meet with team members if needed on team project items, complete all assigned team project items, complete any existing open items on iLearn.
 
 Sunday: Float day: Any action items not complete should be completed by Sunday noon.
+
+![IMG_20200101_133107_edited.jpg](/uploads/IMG_20200101_133107_edited.jpg)
