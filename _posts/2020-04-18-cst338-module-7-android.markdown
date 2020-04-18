@@ -1,6 +1,8 @@
 ---
 title: 'CST338 Module 7: Android'
 date: 2020-04-18 12:03:00 -07:00
+categories:
+- CST338
 ---
 
 **Have you ever created an app before, either for Android or iPhone?  How did it go?**
