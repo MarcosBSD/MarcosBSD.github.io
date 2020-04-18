@@ -28,8 +28,7 @@ google_plus_link:
 stackoverflow_link: 
 xing_link: 
 facebook_link: 
-footer_left: Made with <i class="fa fa-heart"></i> by <a href="https://twitter.com/_JacobTomlinson">Jacob
-  Tomlinson</a>
+footer_left: Template by <a href="https://twitter.com/_JacobTomlinson">Jacob Tomlinson</a>
 footer_right: '&lt;/&gt; on <a href="https://github.com/jacobtomlinson/carte-noire">Github</a>
   &nbsp;<i class="fa fa-github-alt"></i>'
 markdown: kramdown
