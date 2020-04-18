@@ -11,7 +11,7 @@ collections:
 email: mabarrera@csumb.edu
 description: Theme descritions
 baseurl: 
-url: https://csumb-blog.marcosbarrera.com/
+url: http://csumb-blog.marcosbarrera.com/
 title_description: Title Description
 title_image: "/uploads/cropped-tunnel.jpg"
 google_analytics: UA-163962122-1
