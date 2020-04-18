@@ -1,5 +1,5 @@
 ---
-title: Welcome to my online CS Journey!
+title: My Online CS Journey
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -9,10 +9,13 @@ collections:
     title: Uploads
     output: true
 email: mabarrera@csumb.edu
-description: Theme descritions
+description: |-
+  California State University
+  Monterey Bay
+  Online Computer Science
 baseurl: 
 url: http://csumb-blog.marcosbarrera.com/
-title_description: Title Description
+title_description: My CS Online Journey
 title_image: "/uploads/images.png"
 google_analytics: UA-163962122-1
 disqus_account: 
