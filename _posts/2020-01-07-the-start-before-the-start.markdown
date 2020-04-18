@@ -2,7 +2,7 @@
 title: The start before the start
 date: 2020-01-07 11:12:00 -08:00
 categories:
-- CST 300
+- CST300
 ---
 
 100 Weeks! Only 100 weeks for me to finish the next part of my educational journey to becoming a computer scientist. 
