@@ -9,13 +9,13 @@ collections:
     title: Uploads
     output: true
 email: mabarrera@csumb.edu
-description: |-
+description: 
+baseurl: 
+url: http://csumb-blog.marcosbarrera.com/
+title_description: |-
   California State University
   Monterey Bay
   Online Computer Science
-baseurl: 
-url: http://csumb-blog.marcosbarrera.com/
-title_description: My CS Online Journey
 title_image: "/uploads/images.png"
 google_analytics: UA-163962122-1
 disqus_account: 
