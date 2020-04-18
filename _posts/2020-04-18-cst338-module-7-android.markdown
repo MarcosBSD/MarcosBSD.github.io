@@ -1,5 +1,5 @@
 ---
-title: 'CST338 Module 7: Android'
+title: 'CST338 Module7: Android'
 date: 2020-04-18 12:03:00 -07:00
 categories:
 - CST338
