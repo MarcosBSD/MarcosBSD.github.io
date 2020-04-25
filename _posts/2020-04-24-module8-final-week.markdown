@@ -1,6 +1,8 @@
 ---
-title: 'Module8: Final Week'
-date: 2020-04-24 18:12:00 -07:00
+title: 'CST338 Module8: Final Week'
+date: 2020-04-24 18:22:00 -07:00
+categories:
+- CST338
 ---
 
 **They say hindsight is 20/20, what advice would you give to the next cohort regarding this course?**
